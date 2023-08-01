@@ -1,4 +1,6 @@
 # compress-upload-go-sdk
+[![Go build](https://github.com/HiWay-Media/compress-upload-go-sdk/actions/workflows/go-build.yml/badge.svg)](https://github.com/HiWay-Media/compress-upload-go-sdk/actions/workflows/go-build.yml)
+
 Compress Upload Go SDK is a powerful library developed by HiWay Media that simplifies the process of uploading and compressing files to the Compress website . Compress is a cloud-based service that provides fast and efficient file compression capabilities, and this SDK enables easy integration with the service in your Go applications.
 
 ## Features

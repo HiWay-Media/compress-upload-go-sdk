@@ -5,7 +5,6 @@ import (
 	"time"
 )
 
-
 type Asset struct {
 	UUID                    string         `json:"uuid,omitempty"`
 	CustomerSiteStorageUUID string         `json:"customer_site_storage_uuid,omitempty"`
