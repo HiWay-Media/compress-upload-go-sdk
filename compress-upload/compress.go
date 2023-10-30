@@ -13,8 +13,10 @@ type compressUploadSdk struct {
 }
 
 type ICompressUploadClient interface {
+	//
 	HealthCheck() error
 	IsDebug() bool
+	//
 }
 
 func (o *compressUploadSdk) IsDebug() bool {
